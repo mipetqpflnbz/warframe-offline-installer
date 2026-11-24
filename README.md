@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+Awaken as an unstoppable warrior and battle alongside your friends in this story-driven free-to-play online action game
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,12 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **Processor** | Intel Core i7 860, Intel Core i5 750, or AMD FX-4100 (S… | Intel Core i5 / Apple M1 |
+| **Memory** | 4 GB RAM | 4 GB RAM |
+| **Storage** | 75 GB available HD space | 75 GB available HD space |
+| **OS *** | Windows 7 64-Bit (32-bit not supported) | Windows 7 64-Bit (32-bit not supported) |
+| **Video** | DirectX 11+ capable Graphics Card | DirectX 11+ capable Graphics Card |
+| **Internet** | Broadband Internet Connection Required | Broadband Internet Connection Required |
 
 ---
 
